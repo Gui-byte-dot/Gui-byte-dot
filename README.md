@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Typescript and Nextjs
-- 👯 I’m looking to collaborate on futures projects
-- 💬 Ask me about technologies
+- 🌱 I’m currently learning Typescript and Nextjs.
+- 👯 I’m looking to collaborate on futures projects.
+- 💬 Ask me about technologies.
 - 📫 How to reach me: grgomes82@gmail.com
